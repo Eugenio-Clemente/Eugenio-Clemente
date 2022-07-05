@@ -1,4 +1,8 @@
 <div>
+
+ ### Olá, me chamo Eugênio, tenho 24 anos, sou bacharel em ciência da computação, sou apaixonado pela área de tecnologia da informação.
+<br>
+
   <a href="https://github.com/Eugenio-Clemente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=tokyonight"/>
