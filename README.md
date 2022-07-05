@@ -1,6 +1,6 @@
 <div>
 
- ### Olá, me chamo Eugênio, tenho 24 anos, sou bacharel em ciência da computação, apaixonado por tecnologia da informação, sou desenvolvedor front end Júnior, disposto a contribuir, aprender e compartilhar conhecimentos.
+
 <br>
 
   <a href="https://github.com/Eugenio-Clemente">
