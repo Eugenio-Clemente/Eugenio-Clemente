@@ -17,7 +17,7 @@ Olá, tenho 24 anos, sou bacharel em ciência da computação, apaixonado pela �
 </div>
  
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/eug%C3%AAnio-clemente-b11216243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
