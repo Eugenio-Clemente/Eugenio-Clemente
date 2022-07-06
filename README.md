@@ -1,9 +1,9 @@
-<div>
 
 ## Bem vindo(a) ao perfil do Eugênio Clemente
 
 Olá, tenho 24 anos, sou bacharel em ciência da computação, apaixonado pela área de tecnologia da informação, sou desenvolvedor front end Júnior, sempre disposto a contribuir, aprender e compartilhar conhecimentos.
 
+<div>
 <br>
 
   <a href="https://github.com/Eugenio-Clemente">
