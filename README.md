@@ -5,8 +5,8 @@ Olá, tenho 24 anos, sou bacharel em ciência da computação, apaixonado pela �
 <br> 
 <div>
   <a href="https://github.com/Eugenio-Clemente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
