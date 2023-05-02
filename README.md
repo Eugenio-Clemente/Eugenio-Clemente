@@ -5,17 +5,16 @@ Olá, sou bacharel em ciência da computação, apaixonado pela área de tecnolo
 <br> 
 <div>
   <a href="https://github.com/Eugenio-Clemente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=onedark"/>
 </div>
-
+  <img src="https://user-images.githubusercontent.com/101140974/235760151-38ff8673-13ac-4338-a5c0-8ba359cbe0c5.png"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="REACT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
- 
  
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
