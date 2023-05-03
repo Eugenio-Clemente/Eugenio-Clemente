@@ -7,8 +7,8 @@ Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em qual
 
 <br> 
 <div>
- <img align="right" src="https://user-images.githubusercontent.com/101140974/236041484-c002ff97-cb06-4c82-ab46-d8a84217dac1.png"/>
   <a href="https://github.com/Eugenio-Clemente">
+  <img align="right" src="https://user-images.githubusercontent.com/101140974/236041484-c002ff97-cb06-4c82-ab46-d8a84217dac1.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Clemente&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=onedark"/>
 </div>
