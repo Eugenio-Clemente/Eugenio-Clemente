@@ -2,9 +2,9 @@
 ## Bem vindo(a) ao perfil do Eugênio Clemente :slightly_smiling_face:
 
 
-Sou uma pessoa apaixonado pela programação. Sempre tive o sonho de trabalhar com programação comecei a colocar esse sonho em prática estudando HTML, CSS, JavaScript, React e TypeScript. 
+### Sou uma pessoa apaixonado pela programação. Sempre tive o sonho de trabalhar com programação comecei a colocar esse sonho em prática estudando HTML, CSS, JavaScript, React e TypeScript. 
 
-Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. 😁 Ah, gosto de jogos, filmes, séries, animes e outras nerdices. 💚
+### Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. 😁 Ah, gosto de jogos, filmes, séries, animes e outras nerdices. 💚
 
 <div>
 <img align="right" height="400" width="400"src="https://user-images.githubusercontent.com/101140974/236045799-8339d7c9-6060-49dc-9f54-e1e468ff0f0b.png"/>
