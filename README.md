@@ -11,10 +11,6 @@
   <img align="right" height="400" width="400" src="https://user-images.githubusercontent.com/101140974/236319171-ddbe8c79-242d-4f6d-8f8b-a0fb4422d6c4.png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Clemente&layout=compact&langs_count=6&theme=onedark"/>
   </div>
- 
-<br> 
-<div>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
