@@ -13,13 +13,15 @@
   </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="REACT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="60" width="60" alt="Typescript"  src="https://github.com/Eugenio-Clemente/Eugenio-Clemente/assets/101140974/835457e4-2848-4705-9a0e-9165c2d6c769" /> 
+ <img align="center" height="50" width="50" alt="REACT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="50" width="50" alt="git"  src="https://github.com/Eugenio-Clemente/Eugenio-Clemente/assets/101140974/b2f4105d-0c57-44e4-8bcd-da46d26e6c80" />
 </div>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ## Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/eug%C3%AAnio-clemente-b11216243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
